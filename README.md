@@ -23,4 +23,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/kkkk1598/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Array
+|  |
+| ------- |
+| [1293-three-consecutive-odds](https://github.com/kkkk1598/Leetcode/tree/master/1293-three-consecutive-odds) |
 <!---LeetCode Topics End-->
