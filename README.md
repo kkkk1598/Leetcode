@@ -78,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3321-type-of-triangle](https://github.com/kkkk1598/Leetcode/tree/master/3321-type-of-triangle) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/kkkk1598/Leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
