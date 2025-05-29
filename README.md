@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/kkkk1598/Leetcode/tree/master/0001-two-sum) |
 | [0075-sort-colors](https://github.com/kkkk1598/Leetcode/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kkkk1598/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [1293-three-consecutive-odds](https://github.com/kkkk1598/Leetcode/tree/master/1293-three-consecutive-odds) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/kkkk1598/Leetcode/tree/master/0001-two-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/kkkk1598/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 ## Sorting
 |  |
