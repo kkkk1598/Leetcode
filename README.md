@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/kkkk1598/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0206-reverse-linked-list](https://github.com/kkkk1598/Leetcode/tree/master/0206-reverse-linked-list) |
 ## Array
 |  |
 | ------- |
@@ -102,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/kkkk1598/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kkkk1598/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/kkkk1598/Leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
