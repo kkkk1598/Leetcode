@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/kkkk1598/Leetcode/tree/master/0412-fizz-buzz) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/kkkk1598/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/kkkk1598/Leetcode/tree/master/3321-type-of-triangle) |
 ## Database
@@ -109,4 +110,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/kkkk1598/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/kkkk1598/Leetcode/tree/master/0206-reverse-linked-list) |
+## String
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/kkkk1598/Leetcode/tree/master/0412-fizz-buzz) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/kkkk1598/Leetcode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
