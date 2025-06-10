@@ -12,10 +12,10 @@ class Solution {
         }
 
         for(Integer i: map.values()){
-            if(i > maxOdd && i % 2 == 1){
+            if(i > maxOdd && (i & 1) == 1){
                 maxOdd = i;
             }
-            if(i < minEven && i % 2 == 0 ){
+            if(i < minEven && (i & 1) == 0 ){
                 minEven = i;
             }
         }
