@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-maximum-difference-between-increasing-elements](https://github.com/kkkk1598/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2215-finding-3-digit-even-numbers](https://github.com/kkkk1598/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2561-number-of-distinct-averages](https://github.com/kkkk1598/Leetcode/tree/master/2561-number-of-distinct-averages) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/kkkk1598/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3321-type-of-triangle](https://github.com/kkkk1598/Leetcode/tree/master/3321-type-of-triangle) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/kkkk1598/Leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Breadth-First Search
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-minimum-absolute-difference](https://github.com/kkkk1598/Leetcode/tree/master/1306-minimum-absolute-difference) |
 | [2215-finding-3-digit-even-numbers](https://github.com/kkkk1598/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2561-number-of-distinct-averages](https://github.com/kkkk1598/Leetcode/tree/master/2561-number-of-distinct-averages) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/kkkk1598/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3321-type-of-triangle](https://github.com/kkkk1598/Leetcode/tree/master/3321-type-of-triangle) |
 ## Enumeration
 |  |
@@ -144,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/kkkk1598/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+## Greedy
+|  |
+| ------- |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/kkkk1598/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 <!---LeetCode Topics End-->
