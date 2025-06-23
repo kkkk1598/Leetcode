@@ -141,12 +141,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/kkkk1598/Leetcode/tree/master/0412-fizz-buzz) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/kkkk1598/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/kkkk1598/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/kkkk1598/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Simulation
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/kkkk1598/Leetcode/tree/master/0412-fizz-buzz) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/kkkk1598/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 ## Counting
 |  |
 | ------- |
