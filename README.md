@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-minimum-absolute-difference](https://github.com/kkkk1598/Leetcode/tree/master/1306-minimum-absolute-difference) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/kkkk1598/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2215-finding-3-digit-even-numbers](https://github.com/kkkk1598/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/kkkk1598/Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/kkkk1598/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2561-number-of-distinct-averages](https://github.com/kkkk1598/Leetcode/tree/master/2561-number-of-distinct-averages) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/kkkk1598/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/kkkk1598/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/kkkk1598/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/kkkk1598/Leetcode/tree/master/0189-rotate-array) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/kkkk1598/Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2561-number-of-distinct-averages](https://github.com/kkkk1598/Leetcode/tree/master/2561-number-of-distinct-averages) |
 ## Divide and Conquer
 |  |
