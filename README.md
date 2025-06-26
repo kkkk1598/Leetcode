@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/kkkk1598/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kkkk1598/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/kkkk1598/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Recursion
 |  |
 | ------- |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/kkkk1598/Leetcode/tree/master/0412-fizz-buzz) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/kkkk1598/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/kkkk1598/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/kkkk1598/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/kkkk1598/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Simulation
@@ -163,5 +165,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/kkkk1598/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/kkkk1598/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/kkkk1598/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+## Memoization
+|  |
+| ------- |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/kkkk1598/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 <!---LeetCode Topics End-->
