@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/kkkk1598/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kkkk1598/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/kkkk1598/Leetcode/tree/master/0189-rotate-array) |
+| [0594-longest-harmonious-subsequence](https://github.com/kkkk1598/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1293-three-consecutive-odds](https://github.com/kkkk1598/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1306-minimum-absolute-difference](https://github.com/kkkk1598/Leetcode/tree/master/1306-minimum-absolute-difference) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/kkkk1598/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/kkkk1598/Leetcode/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kkkk1598/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0594-longest-harmonious-subsequence](https://github.com/kkkk1598/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/kkkk1598/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/kkkk1598/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2561-number-of-distinct-averages](https://github.com/kkkk1598/Leetcode/tree/master/2561-number-of-distinct-averages) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/kkkk1598/Leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/kkkk1598/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/kkkk1598/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0594-longest-harmonious-subsequence](https://github.com/kkkk1598/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1306-minimum-absolute-difference](https://github.com/kkkk1598/Leetcode/tree/master/1306-minimum-absolute-difference) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/kkkk1598/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/kkkk1598/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
@@ -164,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/kkkk1598/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/kkkk1598/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/kkkk1598/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Greedy
@@ -184,4 +188,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/kkkk1598/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/kkkk1598/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 <!---LeetCode Topics End-->
