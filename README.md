@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/kkkk1598/Leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kkkk1598/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/kkkk1598/Leetcode/tree/master/0110-balanced-binary-tree) |
+| [0200-number-of-islands](https://github.com/kkkk1598/Leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/kkkk1598/Leetcode/tree/master/0226-invert-binary-tree) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/kkkk1598/Leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Binary Tree
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/kkkk1598/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kkkk1598/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/kkkk1598/Leetcode/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/kkkk1598/Leetcode/tree/master/0200-number-of-islands) |
 | [0594-longest-harmonious-subsequence](https://github.com/kkkk1598/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1293-three-consecutive-odds](https://github.com/kkkk1598/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1306-minimum-absolute-difference](https://github.com/kkkk1598/Leetcode/tree/master/1306-minimum-absolute-difference) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/kkkk1598/Leetcode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/kkkk1598/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kkkk1598/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/kkkk1598/Leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/kkkk1598/Leetcode/tree/master/0226-invert-binary-tree) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/kkkk1598/Leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Hash Table
@@ -193,4 +196,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/kkkk1598/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/kkkk1598/Leetcode/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/kkkk1598/Leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
