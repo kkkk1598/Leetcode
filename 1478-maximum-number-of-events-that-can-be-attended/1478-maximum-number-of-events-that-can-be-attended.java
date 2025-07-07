@@ -17,9 +17,11 @@ class Solution {
                 pq.offer(events[j][1]);
                 j++; // increament j to avoid duplication and keep going
             }
+            // remove expired day
             while(!pq.isEmpty() && pq.peek() < i){
                 pq.poll();
             }
+            // Attend best event
             if(!pq.isEmpty()){
                 pq.poll();
                 ans++;
