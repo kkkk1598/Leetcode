@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/kkkk1598/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/kkkk1598/Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/kkkk1598/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/kkkk1598/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2561-number-of-distinct-averages](https://github.com/kkkk1598/Leetcode/tree/master/2561-number-of-distinct-averages) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/kkkk1598/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3321-type-of-triangle](https://github.com/kkkk1598/Leetcode/tree/master/3321-type-of-triangle) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/kkkk1598/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/kkkk1598/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/kkkk1598/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/kkkk1598/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2561-number-of-distinct-averages](https://github.com/kkkk1598/Leetcode/tree/master/2561-number-of-distinct-averages) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/kkkk1598/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3321-type-of-triangle](https://github.com/kkkk1598/Leetcode/tree/master/3321-type-of-triangle) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/kkkk1598/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/kkkk1598/Leetcode/tree/master/0189-rotate-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/kkkk1598/Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/kkkk1598/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2561-number-of-distinct-averages](https://github.com/kkkk1598/Leetcode/tree/master/2561-number-of-distinct-averages) |
 ## Divide and Conquer
 |  |
@@ -190,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/kkkk1598/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/kkkk1598/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/kkkk1598/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/kkkk1598/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/kkkk1598/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/kkkk1598/Leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/kkkk1598/Leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
