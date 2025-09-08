@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/kkkk1598/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1293-three-consecutive-odds](https://github.com/kkkk1598/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1306-minimum-absolute-difference](https://github.com/kkkk1598/Leetcode/tree/master/1306-minimum-absolute-difference) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/kkkk1598/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/kkkk1598/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/kkkk1598/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/kkkk1598/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/kkkk1598/Leetcode/tree/master/0189-rotate-array) |
 | [0412-fizz-buzz](https://github.com/kkkk1598/Leetcode/tree/master/0412-fizz-buzz) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/kkkk1598/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/kkkk1598/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/kkkk1598/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/kkkk1598/Leetcode/tree/master/3321-type-of-triangle) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/kkkk1598/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
